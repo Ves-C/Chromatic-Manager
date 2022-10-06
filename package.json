@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discordjs-reaction-role": "^3.1.0",
+    "index.js": "^0.0.3"
+  }
+}
